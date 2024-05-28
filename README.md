@@ -24,7 +24,7 @@ HULK (Http Unbearable Load King) is a powerful DoS tool designed to generate mas
    cd hulk
    ```
 
-2. Install required dependencies (if any):
+2. Install required dependencies:
    ```bash
    pip install -r requirements.txt
    ```

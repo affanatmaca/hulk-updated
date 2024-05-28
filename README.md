@@ -20,7 +20,7 @@ HULK (Http Unbearable Load King) is a powerful DoS tool designed to generate mas
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hulk.git
+   git clone https://github.com/affanatmaca/hulk.git
    cd hulk
    ```
 
